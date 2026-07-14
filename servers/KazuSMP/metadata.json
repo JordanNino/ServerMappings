@@ -8,11 +8,12 @@
     "primaryAddress": "play.kazusmp.fr",
     "minecraftVersions": [
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "26.2",
     "primaryColor": "#E67E22",
-    "secondaryColor": "#2ECC71",
+    "secondaryColor": "#131F3B",
     "primaryLanguage": "fr",
     "languages": [
         "fr"
