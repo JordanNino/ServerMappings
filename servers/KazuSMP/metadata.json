@@ -7,7 +7,7 @@
     ],
     "primaryAddress": "play.kazusmp.fr",
     "minecraftVersions": [
-        "1.21.*,
+        "1.21.*",
         "26.*"
     ],
     "primaryMinecraftVersion": "26.2",
